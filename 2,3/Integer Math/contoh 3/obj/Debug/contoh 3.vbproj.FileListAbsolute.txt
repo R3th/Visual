@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\contoh 3\bin\Debug\contoh 3.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\contoh 3\bin\Debug\contoh 3.exe
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\contoh 3\bin\Debug\contoh 3.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\contoh 3\bin\Debug\contoh 3.xml
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\contoh 3\obj\Debug\contoh 3.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\contoh 3\obj\Debug\contoh_3.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\contoh 3\obj\Debug\contoh_3.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\contoh 3\obj\Debug\contoh 3.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\contoh 3\obj\Debug\contoh 3.exe
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\contoh 3\obj\Debug\contoh 3.xml
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\contoh 3\obj\Debug\contoh 3.pdb

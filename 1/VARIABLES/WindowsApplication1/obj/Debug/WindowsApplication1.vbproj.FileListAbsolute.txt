@@ -1,0 +1,4 @@
+c:\users\asus\documents\visual studio 2015\Projects\VARIABLES\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\VARIABLES\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\VARIABLES\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\VARIABLES\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache

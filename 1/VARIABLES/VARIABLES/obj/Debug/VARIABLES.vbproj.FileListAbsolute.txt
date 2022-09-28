@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\VARIABLES\VARIABLES\bin\Debug\VARIABLES.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\VARIABLES\VARIABLES\bin\Debug\VARIABLES.exe
+c:\users\asus\documents\visual studio 2015\Projects\VARIABLES\VARIABLES\bin\Debug\VARIABLES.pdb
+c:\users\asus\documents\visual studio 2015\Projects\VARIABLES\VARIABLES\bin\Debug\VARIABLES.xml
+c:\users\asus\documents\visual studio 2015\Projects\VARIABLES\VARIABLES\obj\Debug\VARIABLES.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\VARIABLES\VARIABLES\obj\Debug\VARIABLES.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\VARIABLES\VARIABLES\obj\Debug\VARIABLES.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\VARIABLES\VARIABLES\obj\Debug\VARIABLES.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\VARIABLES\VARIABLES\obj\Debug\VARIABLES.exe
+c:\users\asus\documents\visual studio 2015\Projects\VARIABLES\VARIABLES\obj\Debug\VARIABLES.xml
+c:\users\asus\documents\visual studio 2015\Projects\VARIABLES\VARIABLES\obj\Debug\VARIABLES.pdb

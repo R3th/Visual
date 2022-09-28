@@ -1,0 +1,33 @@
+c:\users\asus\documents\visual studio 2015\Projects\Strings\Strings\bin\Debug\Strings.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Strings\Strings\bin\Debug\Strings.exe
+c:\users\asus\documents\visual studio 2015\Projects\Strings\Strings\bin\Debug\Strings.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Strings\Strings\bin\Debug\Strings.xml
+c:\users\asus\documents\visual studio 2015\Projects\Strings\Strings\obj\Debug\Strings.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Strings\Strings\obj\Debug\Strings.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\Strings\Strings\obj\Debug\Strings.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Strings\Strings\obj\Debug\Strings.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Strings\Strings\obj\Debug\Strings.exe
+c:\users\asus\documents\visual studio 2015\Projects\Strings\Strings\obj\Debug\Strings.xml
+c:\users\asus\documents\visual studio 2015\Projects\Strings\Strings\obj\Debug\Strings.pdb
+D:\Tugas Visal\5\Strings\Strings\bin\Debug\Strings.exe.config
+D:\Tugas Visal\5\Strings\Strings\obj\Debug\Strings.exe
+D:\Tugas Visal\5\Strings\Strings\obj\Debug\Strings.xml
+D:\Tugas Visal\5\Strings\Strings\obj\Debug\Strings.pdb
+D:\Tugas Visal\5\Strings\Strings\bin\Debug\Strings.exe
+D:\Tugas Visal\5\Strings\Strings\bin\Debug\Strings.pdb
+D:\Tugas Visal\5\Strings\Strings\bin\Debug\Strings.xml
+D:\Tugas Visal\5\Strings\Strings\obj\Debug\Strings.vbprojResolveAssemblyReference.cache
+D:\Tugas Visal\5\Strings\Strings\obj\Debug\Strings.Form1.resources
+D:\Tugas Visal\5\Strings\Strings\obj\Debug\Strings.Resources.resources
+D:\Tugas Visal\5\Strings\Strings\obj\Debug\Strings.vbproj.GenerateResource.Cache
+D:\Tugas Visal\5,6,7,8\Strings\Strings\bin\Debug\Strings.exe.config
+D:\Tugas Visal\5,6,7,8\Strings\Strings\obj\Debug\Strings.exe
+D:\Tugas Visal\5,6,7,8\Strings\Strings\obj\Debug\Strings.xml
+D:\Tugas Visal\5,6,7,8\Strings\Strings\obj\Debug\Strings.pdb
+D:\Tugas Visal\5,6,7,8\Strings\Strings\bin\Debug\Strings.exe
+D:\Tugas Visal\5,6,7,8\Strings\Strings\bin\Debug\Strings.pdb
+D:\Tugas Visal\5,6,7,8\Strings\Strings\bin\Debug\Strings.xml
+D:\Tugas Visal\5,6,7,8\Strings\Strings\obj\Debug\Strings.vbprojResolveAssemblyReference.cache
+D:\Tugas Visal\5,6,7,8\Strings\Strings\obj\Debug\Strings.Form1.resources
+D:\Tugas Visal\5,6,7,8\Strings\Strings\obj\Debug\Strings.Resources.resources
+D:\Tugas Visal\5,6,7,8\Strings\Strings\obj\Debug\Strings.vbproj.GenerateResource.Cache

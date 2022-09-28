@@ -1,0 +1,22 @@
+c:\users\asus\documents\visual studio 2015\Projects\Floating Point Math\Floating Point Math\bin\Debug\Floating Point Math.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Floating Point Math\Floating Point Math\bin\Debug\Floating Point Math.exe
+c:\users\asus\documents\visual studio 2015\Projects\Floating Point Math\Floating Point Math\bin\Debug\Floating Point Math.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Floating Point Math\Floating Point Math\bin\Debug\Floating Point Math.xml
+c:\users\asus\documents\visual studio 2015\Projects\Floating Point Math\Floating Point Math\obj\Debug\Floating Point Math.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Floating Point Math\Floating Point Math\obj\Debug\Floating_Point_Math.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\Floating Point Math\Floating Point Math\obj\Debug\Floating_Point_Math.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Floating Point Math\Floating Point Math\obj\Debug\Floating Point Math.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Floating Point Math\Floating Point Math\obj\Debug\Floating Point Math.exe
+c:\users\asus\documents\visual studio 2015\Projects\Floating Point Math\Floating Point Math\obj\Debug\Floating Point Math.xml
+c:\users\asus\documents\visual studio 2015\Projects\Floating Point Math\Floating Point Math\obj\Debug\Floating Point Math.pdb
+D:\Tugas Visal\4\Floating Point Math\Floating Point Math\bin\Debug\Floating Point Math.exe.config
+D:\Tugas Visal\4\Floating Point Math\Floating Point Math\obj\Debug\Floating Point Math.exe
+D:\Tugas Visal\4\Floating Point Math\Floating Point Math\obj\Debug\Floating Point Math.xml
+D:\Tugas Visal\4\Floating Point Math\Floating Point Math\obj\Debug\Floating Point Math.pdb
+D:\Tugas Visal\4\Floating Point Math\Floating Point Math\bin\Debug\Floating Point Math.exe
+D:\Tugas Visal\4\Floating Point Math\Floating Point Math\bin\Debug\Floating Point Math.pdb
+D:\Tugas Visal\4\Floating Point Math\Floating Point Math\bin\Debug\Floating Point Math.xml
+D:\Tugas Visal\4\Floating Point Math\Floating Point Math\obj\Debug\Floating Point Math.vbprojResolveAssemblyReference.cache
+D:\Tugas Visal\4\Floating Point Math\Floating Point Math\obj\Debug\Floating_Point_Math.Form1.resources
+D:\Tugas Visal\4\Floating Point Math\Floating Point Math\obj\Debug\Floating_Point_Math.Resources.resources
+D:\Tugas Visal\4\Floating Point Math\Floating Point Math\obj\Debug\Floating Point Math.vbproj.GenerateResource.Cache

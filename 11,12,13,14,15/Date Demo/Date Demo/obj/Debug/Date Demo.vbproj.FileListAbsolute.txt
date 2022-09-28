@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\Date Demo\Date Demo\bin\Debug\Date Demo.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Date Demo\Date Demo\bin\Debug\Date Demo.exe
+c:\users\asus\documents\visual studio 2015\Projects\Date Demo\Date Demo\bin\Debug\Date Demo.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Date Demo\Date Demo\bin\Debug\Date Demo.xml
+c:\users\asus\documents\visual studio 2015\Projects\Date Demo\Date Demo\obj\Debug\Date Demo.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Date Demo\Date Demo\obj\Debug\Date_Demo.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\Date Demo\Date Demo\obj\Debug\Date_Demo.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Date Demo\Date Demo\obj\Debug\Date Demo.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Date Demo\Date Demo\obj\Debug\Date Demo.exe
+c:\users\asus\documents\visual studio 2015\Projects\Date Demo\Date Demo\obj\Debug\Date Demo.xml
+c:\users\asus\documents\visual studio 2015\Projects\Date Demo\Date Demo\obj\Debug\Date Demo.pdb

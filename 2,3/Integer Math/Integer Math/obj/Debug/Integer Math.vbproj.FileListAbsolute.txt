@@ -1,0 +1,11 @@
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\Integer Math\bin\Debug\Integer Math.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\Integer Math\obj\Debug\Integer Math.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\Integer Math\obj\Debug\Integer_Math.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\Integer Math\obj\Debug\Integer_Math.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\Integer Math\obj\Debug\Integer Math.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\Integer Math\bin\Debug\Integer Math.exe
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\Integer Math\bin\Debug\Integer Math.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\Integer Math\bin\Debug\Integer Math.xml
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\Integer Math\obj\Debug\Integer Math.exe
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\Integer Math\obj\Debug\Integer Math.xml
+c:\users\asus\documents\visual studio 2015\Projects\Integer Math\Integer Math\obj\Debug\Integer Math.pdb
